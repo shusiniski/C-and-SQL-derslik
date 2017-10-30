@@ -1,0 +1,74 @@
+guery--
+
+database---
+
+
+table ---
+
+field---
+
+record---
+
+row----
+
+column----
+
+
+id ---
+
+
+select 
+insort
+updet
+
+
+CTRL ALT L pencereni geri qaytarir  C# da
+
+
+git hub classa gondermek onu soruc muellimin gonderdiyi linki kopyalayib dowloadda remote add originde gonderirsen 
+
+
+
+vievden server explorer edirik sql  yaradiriq 
+
+create table student (
+
+id int identity  not null ,
+studentName nvarchar(max) null,
+studentAge int null
+
+)
+
+
+
+cedvel2
+
+insert  into student (studentName,studentAge)
+values('Rustem',78),
+('Rehman',19),
+('Anar', 32),
+('Seymur', 28)
+
+
+
+cedvel run edende cedveli gorursen 
+select * from student
+
+
+
+yaasi deyismek 
+update student set studentAge=28 where id=4
+
+
+
+
+
+
+
+
+proqrammming sag duyme data base copyalayiriq 
+
+
+studentin usdunden sag duyme show data table
+
+c# dan connection yaratmaq ucun SQL 
